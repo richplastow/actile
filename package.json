@@ -1,6 +1,6 @@
 {
   "name": "actile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A grid of ‘active tiles’, which scale to fit any window shape",
   "main": "build/actile.js",
   "directories": {
